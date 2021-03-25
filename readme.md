@@ -1,6 +1,3 @@
-# Convertedin Taxonomy service
-Google taxonomy search service
-
 # Usage
 - Make sure you installed `swoole extension`
 - clone this repo
